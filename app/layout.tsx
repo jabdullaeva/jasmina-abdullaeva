@@ -60,7 +60,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
         {children}
 
         <footer className="site-footer" role="contentinfo">
-          <p>© {new Date().getFullYear()} Aykhan Pashayev</p>
+          <p>© {new Date().getFullYear()} Jasmina Abdullaeva</p>
         </footer>
       </body>
     </html>
