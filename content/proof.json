@@ -5,49 +5,72 @@
       "type": "achievement",
       "title": "Dean's List — 2023/24 & 2024/25",
       "description": "two consecutive years on the Dean's List at Fordham Lincoln Center. consistency over time.",
-      "badge": null
+      "badge": null,
+      "credential": null
     },
     {
       "id": "alpha-sigma-nu",
       "type": "achievement",
       "title": "Alpha Sigma Nu — Jesuit Honor Society",
       "description": "inducted into the national Jesuit honor society recognizing the top students for scholarship, loyalty, and service. fordham's highest academic honor.",
-      "badge": null
+      "badge": null,
+      "credential": null
     },
     {
       "id": "city-council-citation",
       "type": "achievement",
       "title": "New York City Council Citation",
       "description": "formally recognized by the NYC City Council for leadership and community impact. not something most college students have on their wall.",
-      "badge": null
+      "badge": null,
+      "credential": null
     },
     {
       "id": "harvard-mun",
       "type": "achievement",
       "title": "Harvard National Model United Nations Certificate",
       "description": "competed at Harvard NMUN — one of the most prestigious intercollegiate MUN conferences in the world.",
-      "badge": null
+      "badge": null,
+      "credential": null
     },
     {
       "id": "ftc-worlds",
       "type": "achievement",
       "title": "FTC Worlds Robotics Finalist",
       "description": "made it to the FIRST Tech Challenge World Championship. years of after-school builds and late nights paid off.",
-      "badge": null
+      "badge": null,
+      "credential": null
     },
     {
       "id": "ftc-volunteer",
       "type": "achievement",
       "title": "FTC Volunteer of the Year",
       "description": "recognized for outstanding contribution to the FIRST Tech Challenge community — competing wasn't enough, had to give back too.",
-      "badge": null
+      "badge": null,
+      "credential": null
     },
     {
       "id": "daad-internship",
       "type": "achievement",
       "title": "DAAD German Academic Exchange — Data Science Intern",
       "description": "selected for a competitive international research internship in dortmund, germany. built a production forecasting model using time series clustering and python. not bad for a summer.",
-      "badge": null
+      "badge": null,
+      "credential": null
+    },
+    {
+      "id": "divhacks-fashion",
+      "type": "achievement",
+      "title": "1st Place, Best in Fashion Track — DivHacks 2024",
+      "description": "won the fashion track at DivHacks 2024 with Fashion Faeries, an ML-powered sustainable outfit recommendation app.",
+      "badge": null,
+      "credential": null
+    },
+    {
+      "id": "divhacks-mongodb",
+      "type": "achievement",
+      "title": "Best Use of MongoDB (MLH) — DivHacks 2024",
+      "description": "recognized by Major League Hacking for best use of MongoDB across all hackathon projects.",
+      "badge": null,
+      "credential": null
     }
   ]
 }
