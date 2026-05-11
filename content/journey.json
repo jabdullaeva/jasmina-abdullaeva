@@ -1,0 +1,76 @@
+{
+  "levels": [
+    {
+      "id": "level-0",
+      "level": "Level 0",
+      "title": "the spark",
+      "dateRange": "",
+      "blurb": "built an escape room in java and python as a high school intern and thought — wait, i can make computers do anything. stayed curious and never stopped pulling threads.",
+      "highlights": [],
+      "links": []
+    },
+    {
+      "id": "level-1",
+      "level": "Level 1",
+      "title": "robots and ribbons",
+      "dateRange": "",
+      "blurb": "led an award-winning robotics team all the way to FTC Worlds. learned that the best engineering happens when you obsess over the details everyone else skips.",
+      "highlights": [],
+      "links": []
+    },
+    {
+      "id": "level-2",
+      "level": "Level 2",
+      "title": "going all in",
+      "dateRange": "",
+      "blurb": "enrolled in CS at Fordham and immediately stacked a second degree in Data Science on top. if you're going to learn how systems think, you might as well learn how to make them predict things too.",
+      "highlights": [],
+      "links": []
+    },
+    {
+      "id": "level-3",
+      "level": "Level 3",
+      "title": "keeping the web honest",
+      "dateRange": "",
+      "blurb": "joined Fordham's marketing team as a QA intern — testing, fixing, and improving the university website with javascript, html, and css. quiet work that taught me how much polish actually matters.",
+      "highlights": [],
+      "links": []
+    },
+    {
+      "id": "level-4",
+      "level": "Level 4",
+      "title": "data, for real",
+      "dateRange": "",
+      "blurb": "spent a summer in dortmund, germany with DAAD building a forecasting model from scratch — time series clustering, forecast selection, accuracy KPIs. the kind of project where python stops being a language and starts being a tool you actually trust.",
+      "highlights": [],
+      "links": []
+    },
+    {
+      "id": "level-5",
+      "level": "Level 5",
+      "title": "the global stage",
+      "dateRange": "",
+      "blurb": "represented nations at Harvard, Boston University, UCLA, NYU, and UC Berkeley in Model UN. drafted policy on cybersecurity, AI governance, and digital rights. turns out the skills that make you a good engineer — precision, persuasion, thinking two moves ahead — work just as well in a committee room.",
+      "highlights": [],
+      "links": []
+    },
+    {
+      "id": "level-6",
+      "level": "Level 6",
+      "title": "recognized",
+      "dateRange": "",
+      "blurb": "Dean's List two years running, inducted into Alpha Sigma Nu — Fordham's Jesuit honor society for the top 1% of students. a City Council citation, a Harvard MUN certificate, and a Worlds robotics finalist title somewhere in there too.",
+      "highlights": [],
+      "links": []
+    },
+    {
+      "id": "level-7",
+      "level": "Level 7",
+      "title": "next quest",
+      "dateRange": "",
+      "blurb": "data science intern at Irth this summer, MS in Data Science finishing 2027. the girl who built escape rooms is still building things — just bigger ones, with better data.",
+      "highlights": [],
+      "links": []
+    }
+  ]
+}

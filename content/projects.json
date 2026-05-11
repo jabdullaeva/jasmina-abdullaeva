@@ -1,0 +1,151 @@
+{
+  "projects": [
+    {
+      "id": "project-steampunk-catculus",
+      "image": null,
+      "title": "Steampunk Catculus — HackNJIT",
+      "dateRange": "Nov 2025",
+      "description": "What if you could answer math questions with your hands? Steampunk Catculus is an educational game that uses real-time hand gesture recognition to make learning math interactive and immersive. Players answer AI-generated questions through finger gestures to progress through a steampunk world.",
+      "highlights": [
+        "Computer vision input via MediaPipe and OpenCV — no keyboard required",
+        "AI-generated math questions via Cloudflare for dynamic gameplay",
+        "Full game environment built with Python and Pygame",
+        "Designed and shipped end-to-end at a hackathon"
+      ],
+      "why": "I wanted to explore what happens when you remove the barrier between a learner and the content — no clicking, no typing, just showing your work with your hands.",
+      "metrics": {},
+      "role": "Co-developer — computer vision integration, game logic, UI/UX",
+      "challenge": "Getting real-time gesture recognition to feel responsive and natural inside a game loop without lag tanking the experience.",
+      "architecture": null,
+      "tags": [
+        "Python",
+        "Pygame",
+        "MediaPipe",
+        "OpenCV",
+        "AI",
+        "Computer Vision",
+        "Game Dev"
+      ],
+      "links": [
+        {
+          "label": "Devpost",
+          "url": "https://lnkd.in/e_4dTzVQ"
+        },
+        {
+          "label": "GitHub",
+          "url": "https://lnkd.in/eqwyn3Wu"
+        }
+      ]
+    },
+    {
+      "id": "project-fashion-faeries",
+      "image": null,
+      "title": "Fashion Faeries — DivHacks 2024",
+      "dateRange": "Oct 2024",
+      "description": "1st Place, Best in Fashion Track · Best Use of MongoDB (MLH). An award-winning web app that generates personalized outfit recommendations from user-uploaded wardrobes using machine learning and Pinterest-style inspiration — with a sustainability twist.",
+      "highlights": [
+        "ML-powered outfit recommendations from user wardrobe uploads",
+        "Second-hand price comparison, resale options, and waste-reduction features",
+        "Personalized data storage and retrieval with MongoDB",
+        "Won Best in Fashion Track and Best Use of MongoDB at DivHacks 2024"
+      ],
+      "why": "Fashion is one of the most wasteful industries on the planet. I wanted to build something that makes sustainable choices feel effortless and stylish.",
+      "metrics": {},
+      "role": "Full-stack developer — ML integration, MongoDB, frontend",
+      "challenge": "Delivering a polished, working product across ML, database, and UI layers in a single hackathon day.",
+      "architecture": null,
+      "tags": [
+        "Machine Learning",
+        "MongoDB",
+        "Web App",
+        "Sustainability",
+        "Hackathon"
+      ],
+      "links": []
+    },
+    {
+      "id": "project-eco-tourism",
+      "image": null,
+      "title": "Eco-Tourism — DevFest",
+      "dateRange": "Feb 2024",
+      "description": "A Svelte web app that helps travelers discover lesser-known sustainable destinations worldwide. Features mapping, eco-tour booking, and real-time incident reporting to protect fragile environments.",
+      "highlights": [
+        "Built with SvelteKit for a fast, modern user experience",
+        "Destination search, eco-tour browsing, and sustainable travel tips",
+        "Real-time incident reporting to flag environmental threats",
+        "Clean, intuitive UI designed for ease of exploration"
+      ],
+      "why": "Most travel apps optimize for popularity. I wanted one that optimizes for impact — helping people find places that need thoughtful visitors, not more crowds.",
+      "metrics": {},
+      "role": "Developer — frontend, mapping features, UI/UX",
+      "challenge": "Making sustainability feel like a feature people actually want, not a lecture.",
+      "architecture": null,
+      "tags": [
+        "SvelteKit",
+        "Web App",
+        "Sustainability",
+        "Mapping",
+        "DBMS"
+      ],
+      "links": [
+        {
+          "label": "Demo",
+          "url": "https://drive.google.com/file/d/1nUODE6nmTWjH13EZC-1ZweRJIRCuiI6B/view?resourcekey"
+        }
+      ]
+    },
+    {
+      "id": "project-checkmd",
+      "image": null,
+      "title": "CheckMD — HackNJIT",
+      "dateRange": "Oct 2023",
+      "description": "A surgical error prevention web app built to reduce preventable mistakes in the operating room. Streamlit-powered with Python, enhanced with HTML and CSS, and integrated with MS Excel for data management.",
+      "highlights": [
+        "Critical safety checklists to reduce OR errors",
+        "Built with Streamlit and Python, styled with HTML/CSS",
+        "MS Excel integration for efficient data tracking",
+        "Presented live to hackathon judges"
+      ],
+      "why": "Preventable surgical errors kill thousands of people every year. If a checklist app can catch even one mistake, it's worth building.",
+      "metrics": {},
+      "role": "Developer — backend logic, data integration, frontend styling",
+      "challenge": "Translating a high-stakes medical workflow into a clean, usable interface under time pressure.",
+      "architecture": null,
+      "tags": [
+        "Python",
+        "Streamlit",
+        "HTML",
+        "CSS",
+        "Data Analysis",
+        "Healthcare"
+      ],
+      "links": []
+    },
+    {
+      "id": "project-ftc-robot",
+      "image": null,
+      "title": "FTC POWERPLAY Robot — Team 14212 Metrobotics",
+      "dateRange": "Sep 2022 – Jun 2023",
+      "description": "Programmed a competition robot that advanced to the FIRST Tech Challenge World Championship. Implemented computer vision for autonomous zone detection and full tele-op control with smooth, precise movement.",
+      "highlights": [
+        "OpenCV pipeline detecting RGB values across three autonomous zones",
+        "Scored 1+5 during autonomous period",
+        "Roadrunner/odometry for velocity and acceleration control",
+        "Competed at FTC World Championship"
+      ],
+      "why": "Robotics is where code meets the physical world and has to actually work. No hiding behind a browser refresh.",
+      "metrics": {},
+      "role": "Programmer — autonomous pipeline, tele-op control, odometry",
+      "challenge": "Getting autonomous zone detection reliable enough to trust in a championship match with no second chances.",
+      "architecture": null,
+      "tags": [
+        "Java",
+        "Android Studio",
+        "OpenCV",
+        "Robotics",
+        "Odometry"
+      ],
+      "links": []
+    }
+  ]
+}
