@@ -1,1 +1,1 @@
-self.__NEXT_FONT_MANIFEST="{\"pages\":{},\"app\":{\"/Users/jasminaabdullaeva/jabdullaeva.github.io-1/app/layout\":[\"static/media/db234bd00cda6a96-s.p.woff2\",\"static/media/b7bd7951037de757-s.p.woff2\"]},\"appUsingSizeAdjust\":true,\"pagesUsingSizeAdjust\":false}"
+self.__NEXT_FONT_MANIFEST="{\"pages\":{},\"app\":{\"/Users/jasminaabdullaeva/jabdullaeva.github.io/app/layout\":[\"static/media/db234bd00cda6a96-s.p.woff2\",\"static/media/b7bd7951037de757-s.p.woff2\"]},\"appUsingSizeAdjust\":true,\"pagesUsingSizeAdjust\":false}"

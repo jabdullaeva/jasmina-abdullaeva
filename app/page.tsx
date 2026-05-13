@@ -362,9 +362,9 @@ export default function Home() {
 
         <div className="achievements-grid">
           {proofs.map((item) => {
-            const credential = item.credential as
-              | { label: string; url: string }
-              | undefined
+            const credential = (item.credential ?? null) as
+             { label: string; url: string }
+             | null
 
             return (
               <article key={item.id} className="achievement-card">
