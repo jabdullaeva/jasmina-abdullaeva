@@ -293,7 +293,7 @@ export default function Home() {
       <section id="projects" className="section section--projects" aria-label="Projects" data-reveal="">
         <header className="section-header">
           <h2>// projects</h2>
-          <p>things i built. mostly AWS security.</p>
+          <p>things i built.</p>
         </header>
 
         <div className="projects-grid">
