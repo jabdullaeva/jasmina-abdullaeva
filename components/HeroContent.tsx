@@ -30,8 +30,8 @@ export default function HeroContent() {
             rel="noopener"
           >
             Resume
-*/}
           </a>
+*/}
         </div>
 
         <nav className="hero-links hero-anim hero-anim--5" aria-label="External links">
