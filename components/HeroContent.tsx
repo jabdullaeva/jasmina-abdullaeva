@@ -23,13 +23,14 @@ export default function HeroContent() {
           aria-label="Primary actions"
         >
           <a className="btn btn--primary" href="#journey">start journey</a>
-          <a
+{/*          <a
             className="btn btn--secondary"
             href="/assets/Abdullaeva, Jasmina Resume 2025-2026.pdf"
             target="_blank"
             rel="noopener"
           >
             Resume
+*/}
           </a>
         </div>
 
