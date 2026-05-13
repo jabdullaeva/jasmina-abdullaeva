@@ -215,7 +215,7 @@ export default function Home() {
       <section id="journey" className="section section--journey" aria-label="Journey" data-reveal="">
         <header className="section-header">
           <h2>// journey</h2>
-          <p>from python games at 15 to cloud security. level by level.</p>
+          <p>level by level.</p>
         </header>
 
         <JourneyNodeShine />
